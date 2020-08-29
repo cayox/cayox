@@ -35,8 +35,9 @@
 
 ### Github Stats
 
-  <img align="left" alt="cayox' Github Stats" src="https://github-readme-stats.vercel.app/api?username=cayox&show_icons=true&hide_border=true&count_private=true" />
-  <img align="right" alt="cayox' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayox&hide=c&layout=compact"/>
+<img align="left" alt="cayox' Github Stats" src="https://github-readme-stats.vercel.app/api?username=cayox&show_icons=true&hide_border=true&count_private=true" />
+<br/>
+<img align="left" alt="cayox' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayox&hide=c&layout=compact"/>
 
 
 
