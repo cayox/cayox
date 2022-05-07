@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning GO backend development!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: More Efficiency!
+- 🥅 2022 Goals: More Efficiency!
 - ⚡ Fun fact: No one can beat me in Mario Kart
 
 ### Hit me up
